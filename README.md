@@ -46,9 +46,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - 
 - [arrifat346afs/system_monitor](https://github.com/arrifat346afs/system_monitor) - 
-- [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper) - 
 - [arrifat346afs/img-url](https://github.com/arrifat346afs/img-url) - 
 
@@ -62,11 +62,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Batch runner: trusted debugger input, auto-download, persistence](https://github.com/arrifat346afs/Google-Flow-Helper/pull/2) on [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper)
+- [Add API improvements: cancellation, cost tracking, and model fetcher](https://github.com/arrifat346afs/Descify/pull/4) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 - [Feature/batch runner](https://github.com/arrifat346afs/Google-Flow-Helper/pull/1) on [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper)
 - [Add Descify and TuxScale AppImages ](https://github.com/AppImage/appimage.github.io/pull/3788) on [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io)
 - [Add io.github.arrifat346afs.TuxScale](https://github.com/flathub/flathub/pull/9177) on [flathub/flathub](https://github.com/flathub/flathub)
-- [feat: use Tauri HTTP plugin for LM Studio direct fetch](https://github.com/arrifat346afs/img-url/pull/1) on [arrifat346afs/img-url](https://github.com/arrifat346afs/img-url)
-- [A desktop media player widget](https://github.com/AvengeMedia/dms-plugin-registry/pull/62) on [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
 
 ### ⭐ Recent Stars
 
