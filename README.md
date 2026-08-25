@@ -46,9 +46,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/system_monitor](https://github.com/arrifat346afs/system_monitor) - 
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - 
-- [arrifat346afs/system_monitor](https://github.com/arrifat346afs/system_monitor) - 
 - [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper) - 
 - [arrifat346afs/img-url](https://github.com/arrifat346afs/img-url) - 
 
@@ -70,7 +70,7 @@
 
 ### ⭐ Recent Stars
 
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
