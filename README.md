@@ -50,15 +50,15 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
-- [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - 
 - [arrifat346afs/SystemPulse](https://github.com/arrifat346afs/SystemPulse) - 
 - [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper) - 
 - [arrifat346afs/img-url](https://github.com/arrifat346afs/img-url) - 
 
 ### 🌱 My latest projects
 
-- [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - 
+- [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
 - [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper) - 
 - [arrifat346afs/SystemPulse](https://github.com/arrifat346afs/SystemPulse) - 
 - [arrifat346afs/Football_lab](https://github.com/arrifat346afs/Football_lab) - 
@@ -66,11 +66,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Feature/ai eps support](https://github.com/arrifat346afs/Descify/pull/6) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 - [refactor: migrate state management from Redux Toolkit to Zustand](https://github.com/arrifat346afs/Descify/pull/5) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 - [ Add SystemPulse ](https://github.com/noctalia-dev/community-plugins/pull/494) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
 - [Add SystemPulse](https://github.com/noctalia-dev/community-plugins/pull/493) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
 - [Batch runner: trusted debugger input, auto-download, persistence](https://github.com/arrifat346afs/Google-Flow-Helper/pull/2) on [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper)
-- [Add API improvements: cancellation, cost tracking, and model fetcher](https://github.com/arrifat346afs/Descify/pull/4) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 
 ### ⭐ Recent Stars
 
