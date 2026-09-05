@@ -66,11 +66,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [chore: remove unused folder-batch feature code and debug leftovers](https://github.com/arrifat346afs/Descify/pull/7) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 - [feat: add support for dual GPUs](https://github.com/noctalia-dev/community-plugins/pull/579) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
 - [Feature/ai eps support](https://github.com/arrifat346afs/Descify/pull/6) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 - [refactor: migrate state management from Redux Toolkit to Zustand](https://github.com/arrifat346afs/Descify/pull/5) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 - [ Add SystemPulse ](https://github.com/noctalia-dev/community-plugins/pull/494) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
-- [Add SystemPulse](https://github.com/noctalia-dev/community-plugins/pull/493) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
 
 ### ⭐ Recent Stars
 
