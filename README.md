@@ -50,19 +50,19 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/HyprStudio](https://github.com/arrifat346afs/HyprStudio) - 
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) - Community plugins for Noctalia.
 - [arrifat346afs/SystemPulse](https://github.com/arrifat346afs/SystemPulse) - Systram monitor for Noctalia shell  
 - [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
-- [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper) - 
 
 ### 🌱 My latest projects
 
+- [arrifat346afs/HyprStudio](https://github.com/arrifat346afs/HyprStudio) - 
 - [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
 - [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper) - 
 - [arrifat346afs/SystemPulse](https://github.com/arrifat346afs/SystemPulse) - Systram monitor for Noctalia shell  
 - [arrifat346afs/Football_lab](https://github.com/arrifat346afs/Football_lab) - 
-- [arrifat346afs/nvim](https://github.com/arrifat346afs/nvim) - 
 
 ### 🔨 My recent Pull Requests
 
