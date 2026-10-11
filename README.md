@@ -50,11 +50,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Event-Horizon-desktop-environment/pittore-studio](https://github.com/Event-Horizon-desktop-environment/pittore-studio) - layer-based photo editor for Linux only
 - [arrifat346afs/random-bg](https://github.com/arrifat346afs/random-bg) - 
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
 - [arrifat346afs/HyprStudio](https://github.com/arrifat346afs/HyprStudio) - 
-- [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) - Community plugins for Noctalia.
 
 ### 🌱 My latest projects
 
@@ -66,11 +66,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Linux packaging with github actons](https://github.com/Event-Horizon-desktop-environment/pittore-studio/pull/1) on [Event-Horizon-desktop-environment/pittore-studio](https://github.com/Event-Horizon-desktop-environment/pittore-studio)
 - [fix: .ai/.eps support — thumbnails, preview and metadata indicator](https://github.com/arrifat346afs/Descify/pull/9) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 - [chore: remove unused folder-batch feature code and debug leftovers](https://github.com/arrifat346afs/Descify/pull/7) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 - [feat: add support for dual GPUs](https://github.com/noctalia-dev/community-plugins/pull/579) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
 - [Feature/ai eps support](https://github.com/arrifat346afs/Descify/pull/6) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
-- [refactor: migrate state management from Redux Toolkit to Zustand](https://github.com/arrifat346afs/Descify/pull/5) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 
 ### ⭐ Recent Stars
 
