@@ -50,9 +50,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [Event-Horizon-desktop-environment/pittore-studio](https://github.com/Event-Horizon-desktop-environment/pittore-studio) - layer-based photo editor for Linux only
 - [arrifat346afs/random-bg](https://github.com/arrifat346afs/random-bg) - 
-- [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
 - [arrifat346afs/HyprStudio](https://github.com/arrifat346afs/HyprStudio) - 
 
@@ -74,11 +74,11 @@
 
 ### ⭐ Recent Stars
 
-- [storytold/effectcraft](https://github.com/storytold/effectcraft) - 
+- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source, vector art tool written by scratch in pure Rust
+- [storytold/effectcraft](https://github.com/storytold/effectcraft) - EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust
 - [Event-Horizon-desktop-environment/Novara-Canvas-Studio](https://github.com/Event-Horizon-desktop-environment/Novara-Canvas-Studio) - A new Video Editor with a  Pro UX and Demon Speed
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 
 ### 📫 How to reach me
 
