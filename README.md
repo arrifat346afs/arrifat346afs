@@ -50,19 +50,19 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/videoBG](https://github.com/arrifat346afs/videoBG) - 
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [Event-Horizon-desktop-environment/pittore-studio](https://github.com/Event-Horizon-desktop-environment/pittore-studio) - layer-based photo editor for Linux only
 - [arrifat346afs/random-bg](https://github.com/arrifat346afs/random-bg) - 
 - [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
-- [arrifat346afs/HyprStudio](https://github.com/arrifat346afs/HyprStudio) - 
 
 ### 🌱 My latest projects
 
+- [arrifat346afs/videoBG](https://github.com/arrifat346afs/videoBG) - 
 - [arrifat346afs/random-bg](https://github.com/arrifat346afs/random-bg) - 
 - [arrifat346afs/HyprStudio](https://github.com/arrifat346afs/HyprStudio) - 
 - [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
 - [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper) - 
-- [arrifat346afs/SystemPulse](https://github.com/arrifat346afs/SystemPulse) - Systram monitor for Noctalia shell  
 
 ### 🔨 My recent Pull Requests
 
@@ -74,11 +74,11 @@
 
 ### ⭐ Recent Stars
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source, vector art tool written by scratch in pure Rust
 - [storytold/effectcraft](https://github.com/storytold/effectcraft) - EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust
 - [Event-Horizon-desktop-environment/Novara-Canvas-Studio](https://github.com/Event-Horizon-desktop-environment/Novara-Canvas-Studio) - A new Video Editor with a  Pro UX and Demon Speed
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 ### 📫 How to reach me
 
