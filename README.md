@@ -50,11 +50,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [arrifat346afs/videoBG](https://github.com/arrifat346afs/videoBG) - 
+- [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
+- [arrifat346afs/videoBG](https://github.com/arrifat346afs/videoBG) - 
 - [Event-Horizon-desktop-environment/pittore-studio](https://github.com/Event-Horizon-desktop-environment/pittore-studio) - layer-based photo editor for Linux only
 - [arrifat346afs/random-bg](https://github.com/arrifat346afs/random-bg) - 
-- [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
 
 ### 🌱 My latest projects
 
@@ -66,11 +66,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [perf(pytorch): accelerate PyTorch backend with direct GPU pipeline, bounded queues, NVENC, and dedupe](https://github.com/arrifat346afs/TuxScale/pull/2) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
+- [feat: add streaming PyTorch Real-ESRGAN backend and settings](https://github.com/arrifat346afs/TuxScale/pull/1) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
 - [Linux packaging with github actons](https://github.com/Event-Horizon-desktop-environment/pittore-studio/pull/1) on [Event-Horizon-desktop-environment/pittore-studio](https://github.com/Event-Horizon-desktop-environment/pittore-studio)
 - [fix: .ai/.eps support — thumbnails, preview and metadata indicator](https://github.com/arrifat346afs/Descify/pull/9) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 - [chore: remove unused folder-batch feature code and debug leftovers](https://github.com/arrifat346afs/Descify/pull/7) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
-- [feat: add support for dual GPUs](https://github.com/noctalia-dev/community-plugins/pull/579) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
-- [Feature/ai eps support](https://github.com/arrifat346afs/Descify/pull/6) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 
 ### ⭐ Recent Stars
 
