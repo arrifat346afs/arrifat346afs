@@ -66,11 +66,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix(preview): robust video preview pipeline, hardened media server, H.264 proxy, and frame comparison](https://github.com/arrifat346afs/TuxScale/pull/5) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
+- [fix(pytorch): support spandrel model loading and handle Git LFS weights packaging](https://github.com/arrifat346afs/TuxScale/pull/4) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
+- [feat: add image upscaling support with NCNN and PyTorch backends](https://github.com/arrifat346afs/TuxScale/pull/3) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
 - [perf(pytorch): accelerate PyTorch backend with direct GPU pipeline, bounded queues, NVENC, and dedupe](https://github.com/arrifat346afs/TuxScale/pull/2) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
 - [feat: add streaming PyTorch Real-ESRGAN backend and settings](https://github.com/arrifat346afs/TuxScale/pull/1) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
-- [Linux packaging with github actons](https://github.com/Event-Horizon-desktop-environment/pittore-studio/pull/1) on [Event-Horizon-desktop-environment/pittore-studio](https://github.com/Event-Horizon-desktop-environment/pittore-studio)
-- [fix: .ai/.eps support — thumbnails, preview and metadata indicator](https://github.com/arrifat346afs/Descify/pull/9) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
-- [chore: remove unused folder-batch feature code and debug leftovers](https://github.com/arrifat346afs/Descify/pull/7) on [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify)
 
 ### ⭐ Recent Stars
 
