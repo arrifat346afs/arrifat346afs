@@ -50,27 +50,27 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/imgwheel](https://github.com/arrifat346afs/imgwheel) - 
 - [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/videoBG](https://github.com/arrifat346afs/videoBG) - 
 - [Event-Horizon-desktop-environment/pittore-studio](https://github.com/Event-Horizon-desktop-environment/pittore-studio) - layer-based photo editor for Linux only
-- [arrifat346afs/random-bg](https://github.com/arrifat346afs/random-bg) - 
 
 ### 🌱 My latest projects
 
+- [arrifat346afs/imgwheel](https://github.com/arrifat346afs/imgwheel) - 
 - [arrifat346afs/videoBG](https://github.com/arrifat346afs/videoBG) - 
 - [arrifat346afs/random-bg](https://github.com/arrifat346afs/random-bg) - 
 - [arrifat346afs/HyprStudio](https://github.com/arrifat346afs/HyprStudio) - 
 - [arrifat346afs/Text-Editor](https://github.com/arrifat346afs/Text-Editor) - A simple text editor.
-- [arrifat346afs/Google-Flow-Helper](https://github.com/arrifat346afs/Google-Flow-Helper) - 
 
 ### 🔨 My recent Pull Requests
 
+- [Add Descify link to data directory](https://github.com/AppImage/appimage.github.io/pull/10615) on [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io)
 - [fix(preview): robust video preview pipeline, hardened media server, H.264 proxy, and frame comparison](https://github.com/arrifat346afs/TuxScale/pull/5) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
 - [fix(pytorch): support spandrel model loading and handle Git LFS weights packaging](https://github.com/arrifat346afs/TuxScale/pull/4) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
 - [feat: add image upscaling support with NCNN and PyTorch backends](https://github.com/arrifat346afs/TuxScale/pull/3) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
 - [perf(pytorch): accelerate PyTorch backend with direct GPU pipeline, bounded queues, NVENC, and dedupe](https://github.com/arrifat346afs/TuxScale/pull/2) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
-- [feat: add streaming PyTorch Real-ESRGAN backend and settings](https://github.com/arrifat346afs/TuxScale/pull/1) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
 
 ### ⭐ Recent Stars
 
