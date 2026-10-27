@@ -50,11 +50,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/mediaPlayer](https://github.com/arrifat346afs/mediaPlayer) - 
 - [arrifat346afs/imgwheel](https://github.com/arrifat346afs/imgwheel) - 
 - [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/videoBG](https://github.com/arrifat346afs/videoBG) - 
-- [Event-Horizon-desktop-environment/pittore-studio](https://github.com/Event-Horizon-desktop-environment/pittore-studio) - layer-based photo editor for Linux only
 
 ### 🌱 My latest projects
 
