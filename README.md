@@ -50,7 +50,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [arrifat346afs/mediaPlayer](https://github.com/arrifat346afs/mediaPlayer) - 
+- [bernardopg/mediaPlayer](https://github.com/bernardopg/mediaPlayer) - Desktop MPRIS player widget for Dux Shell (DMS) 2.0: spinning album art, playback controls, seekbar and wave background.
 - [arrifat346afs/imgwheel](https://github.com/arrifat346afs/imgwheel) - 
 - [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
