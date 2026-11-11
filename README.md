@@ -50,19 +50,19 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/Descify-rust](https://github.com/arrifat346afs/Descify-rust) - 
 - [arrifat346afs/scripts](https://github.com/arrifat346afs/scripts) - 
 - [arrifat346afs/prompts](https://github.com/arrifat346afs/prompts) - 
 - [bernardopg/mediaPlayer](https://github.com/bernardopg/mediaPlayer) - Desktop MPRIS player widget for Dux Shell (DMS) 2.0: spinning album art, playback controls, seekbar and wave background.
 - [arrifat346afs/imgwheel](https://github.com/arrifat346afs/imgwheel) - 
-- [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 
 ### 🌱 My latest projects
 
+- [arrifat346afs/Descify-rust](https://github.com/arrifat346afs/Descify-rust) - 
 - [arrifat346afs/scripts](https://github.com/arrifat346afs/scripts) - 
 - [arrifat346afs/prompts](https://github.com/arrifat346afs/prompts) - 
 - [arrifat346afs/imgwheel](https://github.com/arrifat346afs/imgwheel) - 
 - [arrifat346afs/videoBG](https://github.com/arrifat346afs/videoBG) - 
-- [arrifat346afs/random-bg](https://github.com/arrifat346afs/random-bg) - 
 
 ### 🔨 My recent Pull Requests
 
