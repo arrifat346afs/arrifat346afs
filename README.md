@@ -50,11 +50,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/Descify-rust](https://github.com/arrifat346afs/Descify-rust) - 
-- [arrifat346afs/scripts](https://github.com/arrifat346afs/scripts) - 
 - [arrifat346afs/prompts](https://github.com/arrifat346afs/prompts) - 
+- [arrifat346afs/scripts](https://github.com/arrifat346afs/scripts) - 
 - [bernardopg/mediaPlayer](https://github.com/bernardopg/mediaPlayer) - Desktop MPRIS player widget for Dux Shell (DMS) 2.0: spinning album art, playback controls, seekbar and wave background.
-- [arrifat346afs/imgwheel](https://github.com/arrifat346afs/imgwheel) - 
 
 ### 🌱 My latest projects
 
