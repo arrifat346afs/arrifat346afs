@@ -50,8 +50,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
+- [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 - [arrifat346afs/Descify-rust](https://github.com/arrifat346afs/Descify-rust) - 
 - [arrifat346afs/scripts](https://github.com/arrifat346afs/scripts) - 
 - [arrifat346afs/prompts](https://github.com/arrifat346afs/prompts) - 
