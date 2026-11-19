@@ -50,15 +50,15 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [arrifat346afs/Veyra](https://github.com/arrifat346afs/Veyra) - 
+- [arrifat346afs/Veyra](https://github.com/arrifat346afs/Veyra) - A file manager for Linux, built in Rust with GPUI and gpui-kit.
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 - [arrifat346afs/Descify-rust](https://github.com/arrifat346afs/Descify-rust) - 
-- [arrifat346afs/prompts](https://github.com/arrifat346afs/prompts) - 
+- [arrifat346afs/scripts](https://github.com/arrifat346afs/scripts) - 
 
 ### 🌱 My latest projects
 
-- [arrifat346afs/Veyra](https://github.com/arrifat346afs/Veyra) - 
+- [arrifat346afs/Veyra](https://github.com/arrifat346afs/Veyra) - A file manager for Linux, built in Rust with GPUI and gpui-kit.
 - [arrifat346afs/Descify-rust](https://github.com/arrifat346afs/Descify-rust) - 
 - [arrifat346afs/scripts](https://github.com/arrifat346afs/scripts) - 
 - [arrifat346afs/prompts](https://github.com/arrifat346afs/prompts) - 
@@ -66,11 +66,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Add  Descify application](https://github.com/ivan-hc/AM/pull/3048) on [ivan-hc/AM](https://github.com/ivan-hc/AM)
+- [feat: implement batch rename functionality with UI and logic](https://github.com/arrifat346afs/Veyra/pull/1) on [arrifat346afs/Veyra](https://github.com/arrifat346afs/Veyra)
 - [rust gpui migration](https://github.com/arrifat346afs/TuxScale/pull/6) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
 - [Add Descify link to data directory](https://github.com/AppImage/appimage.github.io/pull/10615) on [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io)
 - [fix(preview): robust video preview pipeline, hardened media server, H.264 proxy, and frame comparison](https://github.com/arrifat346afs/TuxScale/pull/5) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
-- [fix(pytorch): support spandrel model loading and handle Git LFS weights packaging](https://github.com/arrifat346afs/TuxScale/pull/4) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
-- [feat: add image upscaling support with NCNN and PyTorch backends](https://github.com/arrifat346afs/TuxScale/pull/3) on [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale)
 
 ### ⭐ Recent Stars
 
