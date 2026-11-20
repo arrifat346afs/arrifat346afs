@@ -51,10 +51,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [arrifat346afs/Veyra](https://github.com/arrifat346afs/Veyra) - A file manager for Linux, built in Rust with GPUI and gpui-kit.
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binaries, integrate AppImages by drag/drop or install unlisted AppImages, conversion of old AppImage types... and more! Manage AppImages like never before!
 - [arrifat346afs/Descify](https://github.com/arrifat346afs/Descify) - AI Title, Keyword &amp; Description Generator 
 - [arrifat346afs/TuxScale](https://github.com/arrifat346afs/TuxScale) - An open-source, AI-powered video upscaler for Linux. TuxScale utilizes Real-ESRGAN models and Vulkan compute to enhance video quality locally.
 - [arrifat346afs/Descify-rust](https://github.com/arrifat346afs/Descify-rust) - 
-- [arrifat346afs/scripts](https://github.com/arrifat346afs/scripts) - 
 
 ### 🌱 My latest projects
 
